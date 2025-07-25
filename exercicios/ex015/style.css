@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightsteelblue;
+    font-size: 18px;
+}
+h1 {
+    color: mediumblue; font-family: cursive;
+}
+h2 {
+    color: darkred; font-family: cursive;
+}
+p {
+    text-align: justify;
+}
